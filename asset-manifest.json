@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TextaLyzer/static/css/main.610aa849.chunk.css",
+    "main.js": "/TextaLyzer/static/js/main.6aa70de0.chunk.js",
+    "main.js.map": "/TextaLyzer/static/js/main.6aa70de0.chunk.js.map",
+    "runtime-main.js": "/TextaLyzer/static/js/runtime-main.c6f8f197.js",
+    "runtime-main.js.map": "/TextaLyzer/static/js/runtime-main.c6f8f197.js.map",
+    "static/js/2.b562d824.chunk.js": "/TextaLyzer/static/js/2.b562d824.chunk.js",
+    "static/js/2.b562d824.chunk.js.map": "/TextaLyzer/static/js/2.b562d824.chunk.js.map",
+    "static/js/3.971fcb24.chunk.js": "/TextaLyzer/static/js/3.971fcb24.chunk.js",
+    "static/js/3.971fcb24.chunk.js.map": "/TextaLyzer/static/js/3.971fcb24.chunk.js.map",
+    "index.html": "/TextaLyzer/index.html",
+    "static/css/main.610aa849.chunk.css.map": "/TextaLyzer/static/css/main.610aa849.chunk.css.map",
+    "static/js/2.b562d824.chunk.js.LICENSE.txt": "/TextaLyzer/static/js/2.b562d824.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6f8f197.js",
+    "static/js/2.b562d824.chunk.js",
+    "static/css/main.610aa849.chunk.css",
+    "static/js/main.6aa70de0.chunk.js"
+  ]
+}
