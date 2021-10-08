@@ -34,7 +34,7 @@ function App() {
  </Router> 
 
 <Navbar/>
-      <Textform/>
+       <Textform heading="Enter text to Analyze"/>
       </>
 
 
