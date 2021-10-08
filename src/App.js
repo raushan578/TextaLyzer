@@ -34,6 +34,7 @@ function App() {
  </Router> 
 
 <Navbar/>
+      <Textform/>
       </>
 
 
