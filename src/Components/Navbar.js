@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import './Textform.js'
+import './Textform'
 import './Navbar.css' 
 export default function Navbar(props) {
     return (<>
