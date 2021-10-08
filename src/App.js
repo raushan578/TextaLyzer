@@ -24,7 +24,7 @@ function App() {
            <About />
      </Route>
 
-          <Route exact path="/"> 
+          <Route exact path=""> 
 
           <Textform heading="Enter text to Analyze"/>
           </Route>
