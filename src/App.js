@@ -33,7 +33,7 @@ function App() {
 
  </Router> 
 
-
+<Navbar/>
       </>
 
 
