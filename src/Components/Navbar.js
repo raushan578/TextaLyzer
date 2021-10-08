@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import './Textform.js'
 import './Navbar.css' 
 export default function Navbar(props) {
     return (<>
@@ -34,7 +35,7 @@ export default function Navbar(props) {
 
 
 
-
+<Textform />
 
 
 
